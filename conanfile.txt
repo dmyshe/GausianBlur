@@ -1,0 +1,8 @@
+[requires]
+opencv/4.5.0
+
+[generators]
+cmake_paths
+xcode
+cmake
+CMakeToolchain
